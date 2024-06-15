@@ -1,0 +1,6 @@
+com\DAO\EmployeeDAO.class
+com\util\DBConnection.class
+com\mycompany\lab8\resources\JakartaEE10Resource.class
+com\WEB\EmployeeServlet.class
+com\Model\Employee.class
+com\mycompany\lab8\JakartaRestConfiguration.class

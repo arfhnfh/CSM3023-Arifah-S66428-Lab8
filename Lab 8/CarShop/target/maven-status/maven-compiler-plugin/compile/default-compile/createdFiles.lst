@@ -1,0 +1,6 @@
+com\controller\CarServlet.class
+com\mycompany\carshop\resources\JakartaEE10Resource.class
+com\model\Car.class
+com\util\DBConnection.class
+com\mycompany\carshop\JakartaRestConfiguration.class
+com\dao\CarDAO.class
